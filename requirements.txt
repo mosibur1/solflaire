@@ -1,0 +1,6 @@
+aiohttp
+brotli
+colorama
+fake_useragent
+orjson
+psutil

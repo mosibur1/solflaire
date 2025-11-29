@@ -1,0 +1,11 @@
+{
+    "reffcode": "",
+    "daily": true,
+    "task": true,
+    "game": true,
+    "maxasync": 5,
+    "maxthread": 5,
+    "proxy": false,
+    "delay_account_switch": 10,
+    "delay_loop": 3000
+}
