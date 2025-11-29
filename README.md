@@ -195,13 +195,13 @@ Follow the steps below to install and set up **Solflarekingdom Bot** properly on
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://codeberg.org/LIVEXORDS1/solflarekingdom-bot.git
+git clone https://github.com/mosibur1/solflaire.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
 
 ```bash
-cd solflarekingdom-bot
+cd solflare
 ```
 
 ### 3️⃣ Install Dependencies
